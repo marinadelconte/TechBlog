@@ -19,6 +19,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: #d5ece8;
 }
 
 /**
@@ -35,6 +36,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: rgb(243, 114, 9);
 }
 
 /* Grouping content
