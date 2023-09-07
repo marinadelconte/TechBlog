@@ -3,5 +3,10 @@
     "name": "Coding is fun!",
     "description": "Coding is fun!",
     "content": "Excited to continue learning more about coding!"
+  },
+  {
+    "name": "Learning how to use handlebars",
+    "description": "Handlebars",
+    "content": "Does anyone have any best practices on how to use Handlebars?"
   }
  ]
